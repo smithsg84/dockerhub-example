@@ -1,2 +1,8 @@
-# dockerhub-example
-Test Repository for GitHub DockerHub integration
+
+# Building with Docker
+
+docker build -t hello-world-python .
+
+# Run
+
+docker run --rm hello-world-python
