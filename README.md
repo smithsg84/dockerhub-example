@@ -1,3 +1,4 @@
+# DockerHub Integration Example v1.1.0
 
 # Building with Docker
 
