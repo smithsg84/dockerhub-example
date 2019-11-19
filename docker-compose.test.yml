@@ -3,7 +3,7 @@ version: '3.6'
 services:
 
   sut:
-    build: .
+    image: smithsg84/hello-world
     command: echo "Run tests"
 
 
