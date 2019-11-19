@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+
+  sut:
+    image: ${DOCKER_REPO}:${DOCKER_TAG}
+    command: /build-dir/hello-world.py
+
+
