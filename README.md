@@ -1,4 +1,4 @@
-# DockerHub Integration Example v1.1.0
+# DockerHub Integration Example v1.2.0
 
 # Building with Docker
 
